@@ -1,2 +1,2 @@
-# C-Language-Basics
-C Language Basics for beginners
+# C_programming-Basics
+Here I'm gonna upload some basics about C language 
